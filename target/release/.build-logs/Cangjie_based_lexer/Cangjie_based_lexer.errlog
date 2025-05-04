@@ -1,0 +1,9 @@
+[33mwarning[0m: unused variable:'i'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\main.cj:48:49:
+   [36m| [0m
+[36m48[0m [36m| [0m    private var results = Array<lexeme>(10000, {i => lexeme(0, "")})[0m
+   [36m| [0m                                                [33m^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+1 warning generated, 1 warning printed.
