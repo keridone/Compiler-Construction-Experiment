@@ -1,0 +1,9 @@
+main(){
+    int a;
+    int b;
+    a=10;
+    b=20*a;
+    reAd a;
+    write b;
+    write a+1;
+}

@@ -1,0 +1,82 @@
+0 LOADI
+1 10
+2 STO
+3 0
+4 POP
+5 LOADI
+6 20
+7 LOAD
+8 0
+9 MULT
+10 STO
+11 1
+12 POP
+13 IN
+14 STO
+15 0
+16 LOAD
+17 0
+18 LOADI
+19 1
+20 ADD
+21 OUT
+label[2] = 0  0  LOADI  5
+label[2] = 0  1  10  2
+label[2] = 0  2  STO  3
+label[2] = 0  3  0  1
+label[2] = 0  4  POP  3
+label[2] = 0  5  LOADI  5
+label[2] = 0  6  20  2
+label[2] = 0  7  LOAD  4
+label[2] = 0  8  0  1
+label[2] = 0  9  MULT  4
+label[2] = 0  10  STO  3
+label[2] = 0  11  1  1
+label[2] = 0  12  POP  3
+label[2] = 0  13  IN  2
+label[2] = 0  14  STO  3
+label[2] = 0  15  0  1
+label[2] = 0  16  LOAD  4
+label[2] = 0  17  0  1
+label[2] = 0  18  LOADI  5
+label[2] = 0  19  1  1
+label[2] = 0  20  ADD  3
+label[2] = 0  21  OUT  3
+label 0  0 Anlabel 1  0 Anlabel 2  0 Anlabel 3  0 Anlabel 4  0 Ancode  0 LOADI
+ 0 0
+code  2 STO
+sto stack 10
+sto data 10
+ 10 0
+code  4 POP
+ 10 0
+code  5 LOADI
+ 10 0
+code  7 LOAD
+ 10 0
+code  9 MULT
+ 10 0
+code  10 STO
+sto stack 200
+sto data -56
+ 10 -56
+code  12 POP
+ 10 -56
+code  13 IN
+请输入数据：1
+
+ 10 -56
+code  14 STO
+sto stack 1
+sto data 1
+ 1 -56
+code  16 LOAD
+ 1 -56
+code  18 LOADI
+ 1 -56
+code  20 ADD
+add  1
+ 1 -56
+code  21 OUT
+程序输出 ％ d
+ 1 -56

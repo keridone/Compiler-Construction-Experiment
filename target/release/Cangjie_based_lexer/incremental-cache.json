@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "Cangjie_based_lexer": {
+      "rootPackageName": "Cangjie_based_lexer",
+      "fileNameHash": "-772300849096084823",
+      "timeStamp": 1750058483,
+      "buildFlag": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "-569176313219372057",
+  "rootPackageName": "Cangjie_based_lexer"
+}

@@ -1,0 +1,169 @@
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser1.cj:37:32:
+   [36m| [0m
+[36m37[0m [36m| [0m    private func parse_program(assert!: Bool = true): Bool{[0m
+   [36m| [0m                               [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser1.cj:41:41:
+   [36m| [0m
+[36m41[0m [36m| [0m    private func parse_main_declaration(assert!: Bool = true): Bool{[0m
+   [36m| [0m                                        [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser1.cj:44:38:
+   [36m| [0m
+[36m44[0m [36m| [0m    private func parse_function_body(assert!: Bool = true): Bool{[0m
+   [36m| [0m                                     [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser1.cj:47:41:
+   [36m| [0m
+[36m47[0m [36m| [0m    private func parse_declaration_list(assert!: Bool = true): Bool{[0m
+   [36m| [0m                                        [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:61:32:
+   [36m| [0m
+[36m61[0m [36m| [0m    private func parse_program(assert!: Bool = true): Bool{[0m
+   [36m| [0m                               [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:65:41:
+   [36m| [0m
+[36m65[0m [36m| [0m    private func parse_main_declaration(assert!: Bool = true): Bool{[0m
+   [36m| [0m                                        [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser1.cj:67:32:
+   [36m| [0m
+[36m67[0m [36m| [0m    private func parse_epsilon(assert!: Bool = true): Bool{[0m
+   [36m| [0m                               [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:68:38:
+   [36m| [0m
+[36m68[0m [36m| [0m    private func parse_function_body(assert!: Bool = true): Bool{[0m
+   [36m| [0m                                     [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser1.cj:70:39:
+   [36m| [0m
+[36m70[0m [36m| [0m    private func parse_statement_list(assert!: Bool = true): Bool{[0m
+   [36m| [0m                                      [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:71:41:
+   [36m| [0m
+[36m71[0m [36m| [0m    private func parse_declaration_list(assert!: Bool = true): Bool{[0m
+   [36m| [0m                                        [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:92:32:
+   [36m| [0m
+[36m92[0m [36m| [0m    private func parse_epsilon(assert!: Bool = true): Bool{[0m
+   [36m| [0m                               [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+  [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:95:39:
+   [36m| [0m
+[36m95[0m [36m| [0m    private func parse_statement_list(assert!: Bool = true): Bool{[0m
+   [36m| [0m                                      [33m^^^^^^ unused variable[0m
+   [36m| [0m
+   [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+   [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser1.cj:126:43:
+    [36m| [0m
+[36m126[0m [36m| [0m    private func parse_additive_expr_tail(assert!: Bool = true): Bool{[0m
+    [36m| [0m                                          [33m^^^^^^ unused variable[0m
+    [36m| [0m
+    [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+   [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser1.cj:137:34:
+    [36m| [0m
+[36m137[0m [36m| [0m    private func parse_term_tail(assert!: Bool = true): Bool{[0m
+    [36m| [0m                                 [33m^^^^^^ unused variable[0m
+    [36m| [0m
+    [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+   [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser1.cj:141:39:
+    [36m| [0m
+[36m141[0m [36m| [0m    private func parse_bool_expr_tail(assert!: Bool = true): Bool{[0m
+    [36m| [0m                                      [33m^^^^^^ unused variable[0m
+    [36m| [0m
+    [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+   [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:194:34:
+    [36m| [0m
+[36m194[0m [36m| [0m    private func parse_bool_expr(assert!: Bool = true): Bool{[0m
+    [36m| [0m                                 [33m^^^^^^ unused variable[0m
+    [36m| [0m
+    [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+   [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:214:38:
+    [36m| [0m
+[36m214[0m [36m| [0m    private func parse_additive_expr(assert!: Bool = true): Bool{[0m
+    [36m| [0m                                     [33m^^^^^^ unused variable[0m
+    [36m| [0m
+    [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'length'
+   [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\TESTmachine.cj:218:57:
+    [36m| [0m
+[36m218[0m [36m| [0m    private func strncpy(code_cnt: Int64, begin: Int64, length: Int64){[0m
+    [36m| [0m                                                        [33m^^^^^^ unused variable[0m
+    [36m| [0m
+    [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'assert'
+   [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:231:29:
+    [36m| [0m
+[36m231[0m [36m| [0m    private func parse_term(assert!: Bool = true): Bool{[0m
+    [36m| [0m                            [33m^^^^^^ unused variable[0m
+    [36m| [0m
+    [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'cogen'
+   [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:276:58:
+    [36m| [0m
+[36m276[0m [36m| [0m    private func term(tok: String, assert!: Bool = true, cogen!: Bool = true): Bool{[0m
+    [36m| [0m                                                         [33m^^^^^ unused variable[0m
+    [36m| [0m
+    [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+[33mwarning[0m: unused variable:'cogen'
+   [36m==>[0m D:\Cangjie_based lexer\Cangjie_based_lexer\src\Parser2.cj:299:83:
+    [36m| [0m
+[36m299[0m [36m| [0m    private func cat(lexeme: Int64, assert!: Bool = true, check_id!: Bool = true, cogen!: Bool = true): Bool{[0m
+    [36m| [0m                                                                                  [33m^^^^^ unused variable[0m
+    [36m| [0m
+    [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+21 warnings generated, 21 warnings printed.
